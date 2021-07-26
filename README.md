@@ -13,7 +13,7 @@ Finally, we will be looking at the forecast of each sub-category, as well as the
 This would then help us better understand where to increase our investments in, therefore increasing overall profits.
 
 
-# Introduction 
+## Introduction 
 Given the dataset from 2011 Q1 to 2015 Q1, we will be looking into the key insights which would help the management make better decisions on where to invest their money in. 
 
 
