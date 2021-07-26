@@ -1,6 +1,6 @@
 # Business Analytics Report
 
-### Running an analysis on Tableau Superstore Dataset to find key insights to make better business decision for managers 
+###### Running an analysis on Tableau Superstore Dataset to find key insights to make better business decision for managers 
 
 ## Summary 
 We will be looking at the overall data, before deep diving into the components which have interesting trends to help us understand what we can improve on to increase profits.
