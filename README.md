@@ -37,6 +37,7 @@ Technology has the highest profits (663,779), followed by Office Supplies (518,4
 
 ## Breakdown by Countries
 Figure 2 shows that the highest performing country is U.S. and the lowest performing is Turkey. In figure 4, we will look at their profits in the respective categories. 
+
 ![image](https://user-images.githubusercontent.com/58731312/126946965-bd9032fc-32da-4c4d-ab07-f7e67d8ccf0a.png)
 ###### Figure 4. Country Outliers as shown on fig 2 - Breakdown of U.S. and turkey
 
