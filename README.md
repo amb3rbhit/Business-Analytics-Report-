@@ -2,6 +2,7 @@
 
 ###### Running an analysis on Tableau Superstore Dataset to find key insights to make better business decision for managers 
 
+
 ## Summary 
 We will be looking at the overall data, before deep diving into the components which have interesting trends to help us understand what we can improve on to increase profits.
 Looking at the overall profits and sales by clustering the countries into 3 clusters: high, medium, low allow us to better understand which region is doing well. It will also help us better look at which country is driving the most profits and apply their best practices to the other clusters.
@@ -11,8 +12,10 @@ We will analyse Customer trends and their spending behaviours. Over the years, t
 Finally, we will be looking at the forecast of each sub-category, as well as the sales and how discounts affect the sales. The forecast would also project the segment of customer to focus on, hence helping the business focus and make better business decisions.
 This would then help us better understand where to increase our investments in, therefore increasing overall profits.
 
+
 # Introduction 
 Given the dataset from 2011 Q1 to 2015 Q1, we will be looking into the key insights which would help the management make better decisions on where to invest their money in. 
+
 
 ## Overview by Profitability 
 ![image](https://user-images.githubusercontent.com/58731312/126946594-7edfa54b-2acc-4014-8c01-aea1bb6732f2.png)
@@ -50,6 +53,7 @@ Figure 5 and 6 breaks down the top or bottom 4 states of their respective countr
 In figure 5, it is notable that there is a huge disparity between New York (42,187) and Washington (15,019).  There could be a lack of brand awareness or consumer preference in the products we are offering in the office supplies and technology items as well as the lack of demand for furniture items.
 As Istanbul is the capital of Turkey which saw the most losses, we suggest lessening in investment for Turkey. It would not be profitable in the long run. 
 
+
 ## Breakdown by Category
 We analyse the profits of all the categories over the years and there is a huge drop in profits for Furniture in January 2012. It is the only point in the diagram that gives a negative profit of -1340.
 
@@ -71,6 +75,7 @@ There are only five countries purchasing tables as seen on figure 9. U.S. contri
 Comparing the total profits over the years to sub-categories, we see that Tables has been constantly making a loss. 
 The data shows that Technology category is flourishing which suggest investing more to increase profits. 
 As for Office Supplies category, the data shows that there is slow growth for Envelopes, Supplies, Labels and Fasteners. We suggest that supply increase in tandem with the growth. 
+
 
 ## Customer Behaviour Analysis
 ![image](https://user-images.githubusercontent.com/58731312/126947413-9c7ff2b0-035b-468a-8929-f25d5e3a90e8.png)
@@ -94,6 +99,7 @@ Customers have a variety of choices of their shipping mode. We are analysing if 
 ###### Figure 14. Shipping Cost of each Segment, coloured by Ship Mode from 2011 -2015 
 
 Most of them do not opt for Same Day shipping, which shows no urgency.  The data set suggest that there is no need to place emphasis on the mode of shipping as most customers prefer Standard Class mode.  
+
 
 ## Forecasting Profits in Long Run
 We will forecast by profits of sub-categories, profits in relation to discount, and the segmentation of customers. 
@@ -123,6 +129,7 @@ Assuming the sale price of products has gone up, or the company brought in a big
 ###### Figure 18. Forecast of Profits of Segmentation by Quarter
 
 We should place more emphasis on Consumer and Corporate rather than Home Office customers. This would allow more sales in those segments and therefore increasing overall profits. 
+
 
 ## Conclusion
 The overall profits and sales of countries suggest that we should focus most on U.S. However, Turkey should be less emphasised on as it is a loss-making country and more likely to close eventually.
